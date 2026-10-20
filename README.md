@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10+-orange.svg)](https://tensorflow.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <div align="left">
   <img src="https://img.shields.io/badge/Accuracy-98%25-success"/>
@@ -186,15 +185,7 @@ The model was trained using transfer learning on MobileNetV2:
   <img src="https://img.shields.io/badge/Sustainability-00A896?style=flat-square"/>
 </div>
 
-## 🤝 Contributing
 
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE)
-
----
 
 <div align="center">
   Made with ❤️ for a cleaner 🌍
